@@ -1,0 +1,4 @@
+export const FETCH_JOB_LIST = 'FETCH_JOB_LIST';
+export const ADD_JOB_POSTING = 'ADD_JOB_POSTING';
+export const DELETE_JOB_POSTING = 'DELETE_JOB_POSTING';
+
